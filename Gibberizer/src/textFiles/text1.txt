@@ -1,0 +1,6 @@
+This is another text file.
+This one, however, has new lines.
+Tricky tricky.
+Mark likes to eat potatoes.
+Kurt likes to eat tomatoes.
+Lucas doesn't like potatoes or tomatoes. 
