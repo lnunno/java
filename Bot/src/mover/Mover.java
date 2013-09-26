@@ -56,7 +56,7 @@ public class Mover {
 			case 4:
 				return KeyEvent.VK_D;
 			default:
-				throw new NoSuchElementException("What the fuck? Check WASD generator.");
+				throw new NoSuchElementException("Check WASD generator.");
 		}
 	}
 	public static void main(String[] args) {
